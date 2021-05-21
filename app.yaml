@@ -12,8 +12,8 @@ handlers:
 - url: /index.php
   static_dir: index.php
 
-  - url: /index.php
-    static_dir: index.php
+  - url: /main.js
+    static_dir: main.js
 
 # Serve images as static resources.
 - url: /(.+\.(gif|png|jpg))$
