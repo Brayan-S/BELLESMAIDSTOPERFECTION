@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'c86898623a4ea305ae2dcd57f6777277bc3b75c2',
+    'reference' => '63479e8d2cce813b4ebf8a8c163ce8b405a88fb0',
     'name' => '__root__',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'c86898623a4ea305ae2dcd57f6777277bc3b75c2',
+      'reference' => '63479e8d2cce813b4ebf8a8c163ce8b405a88fb0',
     ),
     'twbs/bootstrap' => 
     array (
